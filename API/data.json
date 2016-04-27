@@ -1,0 +1,50 @@
+[
+  {
+    "actor": "Brad Pitt",
+    "date": "September 21, 1999",
+    "title": "Fight Club",
+    "summary": "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention."
+  },
+
+   {
+    "actor": "Jim Carrey",
+    "date": "December 6, 1994",
+    "title": "Dumb and Dumber",
+    "summary": "Imbecilic best friends Lloyd Christmas (Jim Carrey) and Harry Dunne (Jeff Daniels) stumble across a suitcase full of money left behind in Harry's car by Mary Swanson (Lauren Holly), who was on her way to the airport. The pair decide to go to Aspen, Colo., to return the money, unaware that it is connected to a kidnapping. As Harry and Lloyd -- who has fallen in love with Mary -- are pursued across the country by hired killers and police, they find both their friendship and their brains tested."
+  },
+
+  {
+    "actor": "Steve Carell",
+    "date": "August 19, 2005",
+    "title": "The 40-Year-Old Virgin",
+    "summary": "Andy Stitzer (Steve Carell) is an amiable single guy who works at a big-box store. Living alone, 40-year-old Andy spends his free time playing video games and curating his action-figure collection. Despite his age, Andy has never had sex, so his friends, including the laid-back David (Paul Rudd), push Andy towards losing his virginity. While attempting to get over his awkwardness around female customers, Andy meets local shop owner Trish (Catherine Keener), and they begin a tentative romance."
+  },
+
+  {
+    "actor": "Will Ferrell",
+    "date": "July 25, 2008",
+    "title": "Step Brothers",
+    "summary": "Brennan Huff (Will Ferrell) and Dale Doback (John C. Reilly) have one thing in common: they are both lazy, unemployed leeches who still live with their parents. When Brennan's mother and Dale's father marry and move in together, it turns the overgrown boys' world upside down. Their insane rivalry and narcissism pull the new family apart, forcing them to work together to reunite their parents"
+  },
+
+  {
+    "actor": "Matt Damon",
+    "date": "December 5, 1997",
+    "title": "Good Will Hunting",
+    "summary": "Will Hunting (Matt Damon) has a genius-level IQ but chooses to work as a janitor at MIT. When he solves a difficult graduate-level math problem, his talents are discovered by Professor Gerald Lambeau (Stellan Skarsgard), who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he will get treatment from therapist Sean Maguire (Robin Williams)."
+  },
+
+  {
+    "actor": "Tom Cruise",
+    "date": "May 16, 1986",
+    "title": "Top Gun",
+    "summary": "The Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When hotshot fighter pilot Maverick (Tom Cruise) is sent to the school, his reckless attitude and cocky demeanor put him at odds with the other pilots, especially the cool and collected Iceman (Val Kilmer). But Maverick isn't only competing to be the top fighter pilot, he's also fighting for the attention of his beautiful flight instructor, Charlotte Blackwood (Kelly McGillis)."
+  },
+
+  {
+    "actor": "Vince Vaughn",
+    "date": "July 15, 2005",
+    "title": "Wedding Crashers",
+    "summary": "Jeremy (Vince Vaughn) and John (Owen Wilson) are divorce mediators who spend their free time crashing wedding receptions. For the irrepressible duo, there are few better ways to drink for free and bed vulnerable women. So when Secretary of the Treasury William Cleary (Christopher Walken) announces the wedding of his daughter, the pair make it their mission to crash the high-profile event. But their game hits a bump in the road when John locks eyes with bridesmaid Claire (Rachel McAdams)."
+  }
+]

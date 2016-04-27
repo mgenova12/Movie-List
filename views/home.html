@@ -1,0 +1,5 @@
+<div class="movie" ng-repeat="movie in movies">
+  <a href="#/movie/{{$index}}">
+    <span class="from">{{ movie.actor }}</span><span class="subject">{{ movie.title }}</span><span class="date">{{ movie.date }}</span>
+  </a>
+</div>
